@@ -5,8 +5,9 @@ dict={
 }
 print(dict)
 print(len(dict))
+print(type(dict))
 print(dict["name"])
-dict["age"]=21
+dict["age"]
 print(dict)
 dict["profession"]="Student"
 print(dict)

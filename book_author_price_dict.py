@@ -4,7 +4,7 @@ book_author_price={
         "price":2999
     },
     "To kill a Mockingbird":{
-        "author":"Harper Lee",
+        "author":"Ashutosh Sahu",
         "price":1999
     },
     "rich dad poor dad":{
@@ -12,3 +12,4 @@ book_author_price={
         "price":1499
     }
 }
+print(book_author_price)

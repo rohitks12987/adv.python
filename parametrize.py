@@ -1,0 +1,8 @@
+s=list([1,2,3,4])
+print(s)
+s1=tuple((1,2,3,4))
+print(s1)
+s2=dict(name= "Tapan", age= 20, roll= "549")
+print(s2)
+s3=set({1,2,3,4})
+print(s3)

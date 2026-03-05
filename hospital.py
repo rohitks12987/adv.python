@@ -21,11 +21,11 @@ class Hospital:
 
     def set_medical_history(self, medical_history):
         self.__medical_history = medical_history
-patient = Hospital("vivek", 30, "No known allergies")
+patient = Hospital("Rohit  Kumar", 30, "No known allergies")
 print(patient.get_name())  
 print(patient.get_age()) 
 print(patient.get_medical_history()) 
-patient.set_name("Vivek Kumar")
+patient.set_name("Rohit Kumar")
 patient.set_age(28)
 patient.set_medical_history("Diabetic")
 print(patient.get_name())  

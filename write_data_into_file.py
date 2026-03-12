@@ -1,0 +1,5 @@
+f = open("data.txt","w")
+f.write("Hello Rohit\n")
+f.write("Welcome to Python Programming\n")
+f.close()
+print("Data written to file")
